@@ -13,7 +13,7 @@ I am passionate about education, communication, and technology. I build real-wor
 * 📚 Strong focus on student communication & development
 * 🚀 Currently growing into a full MERN Stack Developer
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -36,7 +36,7 @@ I am passionate about education, communication, and technology. I build real-wor
 * Nodemailer
 * Git & GitHub
 
----
+
 
 ## 📌 Projects
 
@@ -53,11 +53,11 @@ I am passionate about education, communication, and technology. I build real-wor
 * Twitter: [https://twitter.com/](https://twitter.com/yourhandle)@Atasieee
 * Email: [atasiegloria@gmail.com](mailto:atasiegloria@gmail.com)
 
----
+
 
 ## 📊 GitHub Stats
 
----
+
 
 ## ✨ Goals
 
@@ -66,7 +66,7 @@ I am passionate about education, communication, and technology. I build real-wor
 * Integrate technology into language education
 * Launch a Professional School of Language & Technology
 
----
+
 
 ## ⚡ Fun Fact
 
