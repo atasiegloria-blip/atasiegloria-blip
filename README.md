@@ -45,7 +45,7 @@ I am passionate about education, communication, and technology. I build real-wor
 * 🔹 Email Automation using Nodemailer
 * 🔹 Web-based learning tools (in progress)
 
----
+
 
 ## 🌐 Connect With Me
 
